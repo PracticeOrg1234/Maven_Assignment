@@ -1,0 +1,6 @@
+projectKey=mavenkey
+serverUrl=http://43.204.103.202:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://43.204.103.202:9000/dashboard?id=mavenkey
+ceTaskId=33d626cc-1909-4e87-97d0-c43c2f6cbe66
+ceTaskUrl=http://43.204.103.202:9000/api/ce/task?id=33d626cc-1909-4e87-97d0-c43c2f6cbe66
